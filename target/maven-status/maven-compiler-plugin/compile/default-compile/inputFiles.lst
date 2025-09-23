@@ -1,0 +1,12 @@
+/app/src/main/java/com/memorygame/model/GameModel.java
+/app/src/main/java/com/memorygame/model/SequenceGenerator.java
+/app/src/main/java/com/memorygame/controller/GameController.java
+/app/src/main/java/com/memorygame/ui/GamePanel.java
+/app/src/main/java/com/memorygame/ui/MainFrame.java
+/app/src/main/java/com/memorygame/model/Difficulty.java
+/app/src/main/java/com/memorygame/ui/StartPanel.java
+/app/src/main/java/com/memorygame/Main.java
+/app/src/main/java/com/memorygame/io/Scoreboard.java
+/app/src/main/java/com/memorygame/model/Score.java
+/app/src/main/java/com/memorygame/util/SoundUtils.java
+/app/src/main/java/com/memorygame/ui/LeaderboardPanel.java
